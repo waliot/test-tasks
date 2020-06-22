@@ -1,0 +1,63 @@
+[
+  {
+    "latitude": 50.760918,
+    "longitude": 4.110170,
+    "id": 1,
+    "name": "ВАЗ"
+  },
+  {
+    "latitude": 47.492647,
+    "longitude": 19.051399,
+    "id": 2,
+    "name": "ГАЗель"
+  },
+
+  {
+    "latitude": 41.902689,
+    "longitude": 12.496176,
+    "id": 3,
+    "name": "Lexus"
+  },
+  {
+    "latitude": 43.779787,
+    "longitude": 11.265817,
+    "id": 4,
+    "name": "Volkswagen"
+  },
+  {
+    "latitude": 52.373057,
+    "longitude": 4.892557,
+    "id": 5,
+    "name": "Lada"
+  },
+  {
+    "latitude": -22.903150,
+    "longitude": -43.189903,
+    "id": 6,
+    "name": "Kia"
+  },
+  {
+    "latitude": 38.716174,
+    "longitude": -9.141589,
+    "id": 7,
+    "name": "Bentli"
+  },
+  {
+    "latitude": 50.080293,
+    "longitude": 14.428983,
+    "id": 8,
+    "name": "Porche"
+  },
+  {
+    "latitude": 48.856663,
+    "longitude": 2.351556,
+    "id": 9,
+    "name": "BMW"
+  },
+  {
+    "latitude": 45.438095,
+    "longitude": 12.319029,
+    "id": 10,
+    "name": "Honda"
+  }
+]
